@@ -118,7 +118,7 @@
 
 
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+<!-- ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 <p align="center">
   <picture>
@@ -126,4 +126,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mawadda0/Mawadda0/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mawadda0/Mawadda0/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
+</p> -->
