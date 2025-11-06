@@ -7,7 +7,12 @@
 <br>
 
 
-## <a href="https://imgbb.com/"><img width="23" src="https://i.ibb.co/BKzTpmkW/sword-enchantments-mc.webp" alt="sword-enchantments-mc" border="0"></a> About me
+<h2>
+<img " width="25" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/9a6bc5b4-ee6b-403a-8a95-70a914dc47a6" />
+  About me
+</h2>
+
+
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
