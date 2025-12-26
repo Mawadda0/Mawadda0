@@ -1,4 +1,9 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=559917&center=true&vCenter=true&width=435&lines=Hello+There+%3C%3A;I'm+Mawadda+Gaber;A+CS+Student)](https://git.io/typing-svg)
+
+</div>
+
 
 ## About Me:
 CS Student at `FCI-SCU`| CP Enthusiast | Problem Solver `Codeforces`, `leetcode`.
