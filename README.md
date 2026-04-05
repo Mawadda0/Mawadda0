@@ -15,4 +15,4 @@ CS Student at `FCI-SCU`| CP Enthusiast | Problem Solver `Codeforces`, `leetcode`
 
 ## Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,py,git,github,html,css,sqlite&theme=light&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,py,git,github,html,css,sqlite,flask,js&theme=light&perline=9)](https://skillicons.dev)
