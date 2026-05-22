@@ -4,12 +4,17 @@
 
 </div>
 
+Hi, I'm **Mawadda** 🍭
+- *CS* Student [@Suez-Canal-University](https://suez.edu.eg/ar/en/),  _GPA 3.5_
+- Obsessive *CPer* <a href="https://icpc.global/ICPCID/J83I8XDVP2UZ">`ECPC`</a>, Pupil [Codeforces](https://codeforces.com/profile/Mawchin).
+- Beginner *OSS* Contributor [@GitLab](https://gitlab.com/Mawadda0).
+- Interested in *CS* Core, DS, OOP, Algorithms, Databases.
 
-CS Student | CPer | OSS.
-<br>Interesed in CS, Algorithms, Optimizations, participated at <a href="https://icpc.global/ICPCID/J83I8XDVP2UZ">`ECPC`</a>.
+**Tech Stack**
+- *Languages*: C/C++, Java, Python, JavaScript, SQL, HTML/CSS, MATLAB.
+- *Tools & Databases*: SQLite, Git, GitHub, VS Code, Linux.
 
-## Connections:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mawadda-gaber-3a0760332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mawaddagaber.business@gmail.com) 
+**Connect Via** [`Email`](https://mail.google.com/mail/?view=cm&to=mawaddagaber.business@gmail.com) or [`LinkedIn`](https://www.linkedin.com/in/mawadda-gaber/)
 
-## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,py,git,github,html,css,sqlite,flask,js,matlab&theme=light&perline=9)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,py,git,github,html,css,sqlite,flask,js,matlab&theme=light&perline=9)](https://skillicons.dev) -->
+
