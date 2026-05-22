@@ -12,7 +12,7 @@ Hi, I'm **Mawadda** 🍭
 
 **Tech Stack**
 - *Languages*: C/C++, Java, Python, JavaScript, SQL, HTML/CSS, MATLAB.
-- *Tools & Databases*: SQLite, Git, GitHub, GitLab,VS Code, Linux.
+- *Tools & Databases*: SQLite, Git, GitHub, GitLab, VS Code, Linux.
 
 **Connect Via** [`Email`](https://mail.google.com/mail/?view=cm&to=mawaddagaber.business@gmail.com) or [`LinkedIn`](https://www.linkedin.com/in/mawadda-gaber/)
 
