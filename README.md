@@ -6,7 +6,7 @@
 
 Hi, I'm **Mawadda** 🍭
 - *CS* Student [@Suez-Canal-University](https://suez.edu.eg/ar/en/),  _GPA 3.5_
-- Obsessive *CPer* <a href="https://icpc.global/ICPCID/J83I8XDVP2UZ">`ECPC`</a>, Pupil [Codeforces](https://codeforces.com/profile/Mawchin).
+- Obsessive *CPer* <a href="https://icpc.global/ICPCID/J83I8XDVP2UZ">`ECPC`</a>, *Pupil* [Codeforces](https://codeforces.com/profile/Mawchin).
 - Beginner *OSS* Contributor [@GitLab](https://gitlab.com/Mawadda0).
 - Interested in *CS* Core, DS, OOP, Algorithms, Databases.
 
