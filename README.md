@@ -11,7 +11,7 @@ Hi, I'm ***Mawadda*** 🍭
 - Interested in *CS* Core, Databases, Backend and Software Engineering.
 
 **Tech Stack**
-- *Languages*:  C/C++, Java, Python, JavaScript, SQL, HTML/CSS, MATLAB.
+- *Languages*: C/C++, Java, Python, JavaScript, SQL, HTML/CSS, MATLAB.
 - *Tools*: VS Code, Git, GitHub, GitLab.
 
 **Connect Via** [`Email`](https://mail.google.com/mail/?view=cm&to=mawaddagaber.business@gmail.com) or [`LinkedIn`](https://www.linkedin.com/in/mawadda-gaber/)
