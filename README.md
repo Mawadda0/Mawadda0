@@ -5,7 +5,7 @@
 </div>
 
 Hi, I'm ***Mawadda*** 🍭
-- *CS* Student [@Suez-Canal-University](https://suez.edu.eg/ar/en/),  _GPA 3.5_
+- *CS* Student [@Suez-Canal-University](https://suez.edu.eg/ar/en/),  _GPA 3.51_
 - Obsessive *CPer* <a href="https://icpc.global/ICPCID/J83I8XDVP2UZ">`ECPC`</a>, *Pupil* [@Codeforces](https://codeforces.com/profile/Mawchin), IT Member [@ICPC-SCU](https://github.com/icpc-scu-community).
 - *Linux* user & *OSS* Contributor [@GitLab](https://gitlab.com/Mawadda0).
 - Interested in *CS* Core, Databases, Backend and Software Engineering.
