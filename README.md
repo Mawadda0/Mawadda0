@@ -5,7 +5,7 @@
 </div>
 
 Hi, I'm ***Mawadda*** 🍭
-- Active *OSS* Contributor [@GitLab](https://gitlab.com/Mawadda0), Interested in *Databases*, *Backend* and *DevOps*.
+- Active *OSS* Contributor at [`GitLab`](https://gitlab.com/Mawadda0), Interested in *Databases*, *Backend* and *DevOps*.
 - *CPer* at [`Codeforces`](https://codeforces.com/profile/Mawchin), [`LeetCode`](https://leetcode.com/u/mawadda0/), [`AtCoder`](https://atcoder.jp/users/Mawadda), <a href="https://icpc.global/ICPCID/J83I8XDVP2UZ">`ICPC`</a>.
 
 Connect Via [`Email`](https://mail.google.com/mail/?view=cm&to=mawaddagaber.business@gmail.com) or [`LinkedIn`](https://www.linkedin.com/in/mawadda-gaber/)
